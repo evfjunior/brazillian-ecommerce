@@ -1,5 +1,5 @@
-# brazillian-ecommerce
-A data analysis project about brazillian e-commerce.<br>
+# brazilian-ecommerce
+A data analysis project about brazilian e-commerce.<br>
 Um projeto de análise de dados sobre o comércio online brasileiro.
 
 
